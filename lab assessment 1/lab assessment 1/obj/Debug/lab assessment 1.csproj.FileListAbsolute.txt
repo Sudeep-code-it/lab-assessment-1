@@ -1,0 +1,14 @@
+C:\Users\Sudeep A\source\repos\lab assessment 1\lab assessment 1\bin\Debug\lab assessment 1.exe.config
+C:\Users\Sudeep A\source\repos\lab assessment 1\lab assessment 1\bin\Debug\lab assessment 1.exe
+C:\Users\Sudeep A\source\repos\lab assessment 1\lab assessment 1\bin\Debug\lab assessment 1.pdb
+C:\Users\Sudeep A\source\repos\lab assessment 1\lab assessment 1\obj\Debug\lab assessment 1.csproj.AssemblyReference.cache
+C:\Users\Sudeep A\source\repos\lab assessment 1\lab assessment 1\obj\Debug\lab assessment 1.csproj.CoreCompileInputs.cache
+C:\Users\Sudeep A\source\repos\lab assessment 1\lab assessment 1\obj\Debug\lab assessment 1.exe
+C:\Users\Sudeep A\source\repos\lab assessment 1\lab assessment 1\obj\Debug\lab assessment 1.pdb
+C:\Users\Sudeep A\Desktop\lab assememt 1\lab assessment 1\lab assessment 1\bin\Debug\lab assessment 1.exe.config
+C:\Users\Sudeep A\Desktop\lab assememt 1\lab assessment 1\lab assessment 1\bin\Debug\lab assessment 1.exe
+C:\Users\Sudeep A\Desktop\lab assememt 1\lab assessment 1\lab assessment 1\bin\Debug\lab assessment 1.pdb
+C:\Users\Sudeep A\Desktop\lab assememt 1\lab assessment 1\lab assessment 1\obj\Debug\lab assessment 1.csproj.AssemblyReference.cache
+C:\Users\Sudeep A\Desktop\lab assememt 1\lab assessment 1\lab assessment 1\obj\Debug\lab assessment 1.csproj.CoreCompileInputs.cache
+C:\Users\Sudeep A\Desktop\lab assememt 1\lab assessment 1\lab assessment 1\obj\Debug\lab assessment 1.exe
+C:\Users\Sudeep A\Desktop\lab assememt 1\lab assessment 1\lab assessment 1\obj\Debug\lab assessment 1.pdb
